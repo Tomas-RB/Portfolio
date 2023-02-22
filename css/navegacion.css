@@ -1,0 +1,40 @@
+.navegacion {
+    background-image: url(../multimedia/imagenes/mapa\ rectangular.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+    width: 40vw;
+    position: fixed;
+    right: 2vw;
+    top: 5vh;
+    border-radius: 1%;
+}
+
+.isla-Inicio {
+    position: relative;
+    top: 70vh;
+    left: 19vw;
+}
+
+.isla-contacto {
+    position: relative;
+    top: 40vh;
+    left: 5vw;
+}
+
+.isla-SobreMi {
+    position: relative;
+    top: 10vh;
+    left: 30vw;
+}
+
+.isla-Proyectos {
+    position: relative;
+    bottom: 20vh;
+    left: 10vw;
+}
+
+nav img {
+    width: 80px;
+}
